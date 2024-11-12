@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "TEST-sushi",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
